@@ -13,6 +13,7 @@
 #ifndef WINVER
 #define WINVER        0x0500
 #endif
+#include <stdint.h>
 #include <windows.h>
 #pragma comment(lib, "user32.lib")
 
