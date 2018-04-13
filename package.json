@@ -24,7 +24,7 @@
     "node-pre-gyp": "^0.6.39"
   },
   "binary": {
-    "module_name": "native_idle_time",
+    "module_name": "native-idle-time",
     "module_path": "./lib/binding/{configuration}/{node_abi}-{platform}-{arch}/",
     "remote_path": "{version}",
     "package_name": "{module_name}-v{version}-{node_abi}-{platform}-{arch}.tar.gz",
