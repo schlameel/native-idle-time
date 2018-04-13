@@ -1,7 +1,7 @@
 {
   "targets": [
     {
-      "target_name": "native_idle_time",
+      "target_name": "native-idle-time",
       "sources": [ "native-idle-time.cc" ],
       "conditions":[
       	["OS=='linux'", {
