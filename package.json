@@ -21,7 +21,7 @@
   "homepage": "https://github.com/schlameel/native-idle-time",
   "dependencies": {
     "nan": "^2.10.0",
-    "node-pre-gyp": "^0.6.39"
+    "node-pre-gyp": "^0.10.0"
   },
   "binary": {
     "module_name": "native-idle-time",
