@@ -1,6 +1,6 @@
 {
   "name": "native-idle-time",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Cross platform addon to get the user idle time.",
   "gypfile": true,
   "main": "index.js",
