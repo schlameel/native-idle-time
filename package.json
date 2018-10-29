@@ -1,6 +1,6 @@
 {
   "name": "native-idle-time",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Cross platform addon to get the user idle time.",
   "gypfile": true,
   "main": "index.js",
@@ -28,7 +28,7 @@
     "module_path": "./lib/binding/{configuration}/{node_abi}-{platform}-{arch}/",
     "remote_path": "{version}",
     "package_name": "{module_name}-v{version}-{node_abi}-{platform}-{arch}.tar.gz",
-    "host": "https://github.com/schlameel/native-idle-time/releases/download/"
+    "host": "https://api.github.com/schlameel/native-idle-time/releases/download/"
   },
   "scripts": {
     "preinstall": "npm install node-pre-gyp",
