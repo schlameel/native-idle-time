@@ -1,6 +1,6 @@
 {
   "name": "native-idle-time",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Cross platform addon to get the user idle time.",
   "gypfile": true,
   "main": "index.js",
@@ -20,8 +20,8 @@
   "bugs": "https://github.com/schlameel/native-idle-time/issues",
   "homepage": "https://github.com/schlameel/native-idle-time",
   "dependencies": {
-    "nan": "^2.10.0",
-    "node-pre-gyp": "^0.10.0"
+    "nan": "^2.14.1",
+    "node-pre-gyp": "^0.14.0"
   },
   "binary": {
     "module_name": "native-idle-time",
