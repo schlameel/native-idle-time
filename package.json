@@ -1,5 +1,5 @@
 {
-  "name": "native-idle-time",
+  "name": "@schlameel/native-idle-time",
   "version": "1.0.6",
   "description": "Cross platform addon to get the user idle time.",
   "gypfile": true,
@@ -19,6 +19,9 @@
   "author": "Schlameel",
   "bugs": "https://github.com/schlameel/native-idle-time/issues",
   "homepage": "https://github.com/schlameel/native-idle-time",
+  "publishConfig": {
+      "access": "public"
+  },
   "dependencies": {
     "nan": "^2.14.1",
     "node-pre-gyp": "^0.14.0"
